@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:ARAVIND SAMY .P</h3>
-<h3>Register Number/Staff Id:21222223001</h3>
+<h3>Name:VISHAL GOWTHAMAN K R</h3>
+<h3>Register Number/Staff Id:212221230123</h3>
 
 # Aim: 
 
